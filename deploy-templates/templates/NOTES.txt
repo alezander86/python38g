@@ -1,0 +1,1 @@
+1. Application python38gsonar has been successfully deployed!!
